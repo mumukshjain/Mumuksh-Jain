@@ -30,7 +30,7 @@
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="https://github.com/mumukshjain/mumukshjain.github.io/blob/main/profile.jpg?raw=true" width="250" alt="Mumuksh Jain"/>
+    <img src="https://github.com/mumukshjain/mumuksh_jain/blob/main/Photo_github.jpg?raw=true" width="250" alt="Mumuksh Jain"/>
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <h2>Hi there!</h2>
